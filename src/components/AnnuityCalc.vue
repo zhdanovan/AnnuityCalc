@@ -1,6 +1,6 @@
 <template>
   <div class="calc">
-    <h2>Аннуитентный калькулятор</h2>
+    <h2>Аннуитетный калькулятор</h2>
   <form @submit.prevent="calculateAnn">
     <div>
       <label>Сумма кредита:</label>
