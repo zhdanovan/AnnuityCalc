@@ -42,12 +42,12 @@ export default {
 .btn {
   position: relative;
   left: 50%;
-transform: translate(-50%, 0);
+  transform: translate(-50%, 0);
   display: block;
   width: 200px;
   height: 36px;
   border-radius: 18px;
-  background-color: #1c89ff;
+  background-color: #4c4c4c;
   border: solid 1px transparent;
   color: #fff;
   font-size: 18px;
