@@ -47,7 +47,7 @@ export default {
   width: 200px;
   height: 36px;
   border-radius: 18px;
-  background-color: #4c4c4c;
+  background-color:#009B77;
   border: solid 1px transparent;
   color: #fff;
   font-size: 18px;
